@@ -28,7 +28,7 @@ Se ejecutó un modelo NLP utilizando el pipeline de **sentiment-analysis** de Hu
 
 📎 **Evidencias del notebook:**  
 - `Captura de pantalla 2025-11-22 021210.png`  
-- `notebook_ejecucion_2.png`  
+- `Captura de pantalla 2025-11-22 023544.png`  
 
 
 El código usado fue:
