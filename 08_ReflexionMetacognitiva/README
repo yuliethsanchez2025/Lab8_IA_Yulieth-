@@ -1,1 +1,59 @@
+# Reflexión Metacognitiva
+
+Durante la realización del taller sobre plataformas de Inteligencia Artificial, pude profundizar en mi propio **proceso de aprendizaje** y analizar cómo aplico estrategias cognitivas y metacognitivas para resolver problemas complejos. La reflexión se organiza según cinco ejes clave:
+
+---
+
+## 1. Conocimiento de uno mismo
+Durante el desarrollo del trabajo, identifiqué mis fortalezas y debilidades en el manejo de herramientas de IA.  
+- **Fortalezas:** Capacidad de investigar documentación, seguir tutoriales paso a paso y ejecutar scripts en Python y Colab.  
+- **Debilidades:** Dificultad inicial para manejar dependencias y compatibilidades entre librerías, especialmente en entornos como Colab.  
+
+Comprender estas limitaciones me permitió anticipar errores y buscar soluciones de forma proactiva.
+
+---
+
+## 2. Planificación
+Antes de iniciar cada punto del taller, diseñé un plan de acción:  
+1. Leer la descripción técnica del ejercicio.  
+2. Identificar la herramienta requerida y el tipo de evidencia solicitada.  
+3. Crear un esquema de pasos para ejecutar modelos o pipelines.  
+
+Esta planificación me permitió **optimizar el tiempo** y reducir la incertidumbre al enfrentar errores de instalación o ejecución.
+
+---
+
+## 3. Monitoreo
+Durante la ejecución de scripts y pruebas en Colab:  
+- Revisaba constantemente los mensajes de error y la salida de los programas.  
+- Comparaba los resultados generados con las expectativas iniciales.  
+- Ajustaba prompts y parámetros para mejorar la calidad de las imágenes o la exactitud de las respuestas RAG.  
+
+Este monitoreo activo me ayudó a **detectar problemas de manera temprana** y a corregirlos sin comprometer la continuidad del trabajo.
+
+---
+
+## 4. Evaluación
+Al final de cada actividad, evalué:  
+- La **calidad de los resultados** (imágenes generadas, precisión de respuestas, claridad del código).  
+- La **eficiencia** de las herramientas (latencia, facilidad de uso, integración en el flujo de trabajo).  
+- La **aplicabilidad** en un contexto educativo o de desarrollo de software.  
+
+Estas evaluaciones me permitieron **reflexionar sobre la utilidad práctica de cada plataforma** y entender sus limitaciones y potencial.
+
+---
+
+## 5. Transferencia
+El conocimiento adquirido fue **transferido entre herramientas y contextos**:  
+- Lo aprendido sobre pipelines en Modelscope ayudó a comprender la configuración de RAG en LLaMaIndex.  
+- La generación de scripts en Colab facilitó el uso de notebooks en GitHub Copilot y Replit AI.  
+- La experiencia combinada de estas plataformas permitió diseñar un **caso integrador educativo**, aplicando conceptos de prototipado, automatización y asistencia en programación.
+
+Esta transferencia demuestra cómo las estrategias de aprendizaje y la reflexión metacognitiva **potencian la capacidad de aplicar conocimientos en nuevos escenarios**.
+
+---
+
+## Conclusión
+El taller fortaleció mis habilidades técnicas en IA y programación, y me permitió **ser consciente de mi proceso de aprendizaje**: desde planificar y ejecutar hasta evaluar y transferir conocimientos.  
+La práctica metacognitiva me enseña a **aprender de manera más autónoma y crítica**, anticipando dificultades y maximizando el aprovechamiento de cada herramienta.
 
