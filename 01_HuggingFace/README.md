@@ -27,7 +27,7 @@ Modelo para reconocimiento de voz entrenado sobre 960 horas de audio.
 Se ejecutó un modelo NLP utilizando el pipeline de **sentiment-analysis** de Hugging Face.
 
 📎 **Evidencias del notebook:**  
-- `notebook_ejecucion_1.png`  
+- `Captura de pantalla 2025-11-22 021210.png`  
 - `notebook_ejecucion_2.png`  
 
 
